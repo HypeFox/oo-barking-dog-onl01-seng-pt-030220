@@ -13,7 +13,7 @@
 # end
 
 class Dog
-  attr_accessor :name
+  attr_accessor :dog_name
   
   def bark
     puts "woof!"
